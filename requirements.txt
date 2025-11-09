@@ -1,0 +1,10 @@
+streamlit>=1.25.0
+pypdf2>=3.0.0
+langchain>=0.0.300
+langchain-groq>=0.2.2
+sentence-transformers>=2.2.2
+transformers>=4.46.3
+huggingface-hub>=0.14.1
+docx2txt>=0.8
+python-dotenv>=1.0.0
+faiss-cpu>=1.7.4  # or faiss-gpu if you have GPU

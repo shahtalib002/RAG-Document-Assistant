@@ -1,0 +1,18 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit cache
+.streamlit/
+*/__pycache__/
+*/.ipynb_checkpoints
+
+# Vector DB storage
+vectorstore_faiss/
+
+# System files
+.DS_Store
+Thumbs.db
